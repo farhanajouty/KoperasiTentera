@@ -1,0 +1,285 @@
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\appsettings.Development.json
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\appsettings.json
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\Registation.exe
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\Registation.deps.json
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\Registation.runtimeconfig.json
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\Registation.dll
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\Registation.pdb
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\Azure.Core.dll
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\Azure.Identity.dll
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\Humanizer.dll
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\Microsoft.OpenApi.dll
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\Mono.TextTemplating.dll
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\System.CodeDom.dll
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\System.Composition.Convention.dll
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\System.Composition.Hosting.dll
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\System.Composition.Runtime.dll
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\System.Composition.TypedParts.dll
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\System.Drawing.Common.dll
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\System.Memory.Data.dll
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\System.Runtime.Caching.dll
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\System.Security.Permissions.dll
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\System.Text.Json.dll
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\System.Windows.Extensions.dll
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+H:\task\task 2\Registation\Registation\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+H:\task\task 2\Registation\Registation\obj\Debug\net8.0\Registation.csproj.AssemblyReference.cache
+H:\task\task 2\Registation\Registation\obj\Debug\net8.0\Registation.GeneratedMSBuildEditorConfig.editorconfig
+H:\task\task 2\Registation\Registation\obj\Debug\net8.0\Registation.AssemblyInfoInputs.cache
+H:\task\task 2\Registation\Registation\obj\Debug\net8.0\Registation.AssemblyInfo.cs
+H:\task\task 2\Registation\Registation\obj\Debug\net8.0\Registation.csproj.CoreCompileInputs.cache
+H:\task\task 2\Registation\Registation\obj\Debug\net8.0\Registation.MvcApplicationPartsAssemblyInfo.cs
+H:\task\task 2\Registation\Registation\obj\Debug\net8.0\Registation.MvcApplicationPartsAssemblyInfo.cache
+H:\task\task 2\Registation\Registation\obj\Debug\net8.0\staticwebassets.build.json
+H:\task\task 2\Registation\Registation\obj\Debug\net8.0\staticwebassets.development.json
+H:\task\task 2\Registation\Registation\obj\Debug\net8.0\staticwebassets\msbuild.Registation.Microsoft.AspNetCore.StaticWebAssets.props
+H:\task\task 2\Registation\Registation\obj\Debug\net8.0\staticwebassets\msbuild.build.Registation.props
+H:\task\task 2\Registation\Registation\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Registation.props
+H:\task\task 2\Registation\Registation\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Registation.props
+H:\task\task 2\Registation\Registation\obj\Debug\net8.0\staticwebassets.pack.json
+H:\task\task 2\Registation\Registation\obj\Debug\net8.0\scopedcss\bundle\Registation.styles.css
+H:\task\task 2\Registation\Registation\obj\Debug\net8.0\Registat.A10D6729.Up2Date
+H:\task\task 2\Registation\Registation\obj\Debug\net8.0\Registation.dll
+H:\task\task 2\Registation\Registation\obj\Debug\net8.0\refint\Registation.dll
+H:\task\task 2\Registation\Registation\obj\Debug\net8.0\Registation.pdb
+H:\task\task 2\Registation\Registation\obj\Debug\net8.0\Registation.genruntimeconfig.cache
+H:\task\task 2\Registation\Registation\obj\Debug\net8.0\ref\Registation.dll
+G:\Registation\Registation\bin\Debug\net8.0\appsettings.json
+G:\Registation\Registation\bin\Debug\net8.0\appsettings.Development.json
+G:\Registation\Registation\bin\Debug\net8.0\Registation.exe
+G:\Registation\Registation\bin\Debug\net8.0\Registation.deps.json
+G:\Registation\Registation\bin\Debug\net8.0\Registation.runtimeconfig.json
+G:\Registation\Registation\bin\Debug\net8.0\Registation.dll
+G:\Registation\Registation\bin\Debug\net8.0\Registation.pdb
+G:\Registation\Registation\bin\Debug\net8.0\Azure.Core.dll
+G:\Registation\Registation\bin\Debug\net8.0\Azure.Identity.dll
+G:\Registation\Registation\bin\Debug\net8.0\Humanizer.dll
+G:\Registation\Registation\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+G:\Registation\Registation\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+G:\Registation\Registation\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+G:\Registation\Registation\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Registation\Registation\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+G:\Registation\Registation\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+G:\Registation\Registation\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\Registation\Registation\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+G:\Registation\Registation\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+G:\Registation\Registation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+G:\Registation\Registation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Registation\Registation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\Registation\Registation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Registation\Registation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\Registation\Registation\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+G:\Registation\Registation\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+G:\Registation\Registation\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+G:\Registation\Registation\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+G:\Registation\Registation\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+G:\Registation\Registation\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\Registation\Registation\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+G:\Registation\Registation\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\Registation\Registation\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+G:\Registation\Registation\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+G:\Registation\Registation\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\Registation\Registation\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+G:\Registation\Registation\bin\Debug\net8.0\Microsoft.OpenApi.dll
+G:\Registation\Registation\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+G:\Registation\Registation\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+G:\Registation\Registation\bin\Debug\net8.0\Mono.TextTemplating.dll
+G:\Registation\Registation\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\Registation\Registation\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\Registation\Registation\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\Registation\Registation\bin\Debug\net8.0\System.CodeDom.dll
+G:\Registation\Registation\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+G:\Registation\Registation\bin\Debug\net8.0\System.Composition.Convention.dll
+G:\Registation\Registation\bin\Debug\net8.0\System.Composition.Hosting.dll
+G:\Registation\Registation\bin\Debug\net8.0\System.Composition.Runtime.dll
+G:\Registation\Registation\bin\Debug\net8.0\System.Composition.TypedParts.dll
+G:\Registation\Registation\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+G:\Registation\Registation\bin\Debug\net8.0\System.Drawing.Common.dll
+G:\Registation\Registation\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+G:\Registation\Registation\bin\Debug\net8.0\System.Memory.Data.dll
+G:\Registation\Registation\bin\Debug\net8.0\System.Runtime.Caching.dll
+G:\Registation\Registation\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+G:\Registation\Registation\bin\Debug\net8.0\System.Security.Permissions.dll
+G:\Registation\Registation\bin\Debug\net8.0\System.Windows.Extensions.dll
+G:\Registation\Registation\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+G:\Registation\Registation\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+G:\Registation\Registation\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+G:\Registation\Registation\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+G:\Registation\Registation\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+G:\Registation\Registation\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+G:\Registation\Registation\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+G:\Registation\Registation\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+G:\Registation\Registation\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\Registation\Registation\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+G:\Registation\Registation\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+G:\Registation\Registation\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\Registation\Registation\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\Registation\Registation\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Registation\Registation\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Registation\Registation\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Registation\Registation\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Registation\Registation\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Registation\Registation\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Registation\Registation\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Registation\Registation\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Registation\Registation\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Registation\Registation\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Registation\Registation\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Registation\Registation\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Registation\Registation\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Registation\Registation\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Registation\Registation\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Registation\Registation\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Registation\Registation\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Registation\Registation\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Registation\Registation\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Registation\Registation\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Registation\Registation\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Registation\Registation\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Registation\Registation\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Registation\Registation\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Registation\Registation\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Registation\Registation\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Registation\Registation\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Registation\Registation\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Registation\Registation\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Registation\Registation\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Registation\Registation\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Registation\Registation\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Registation\Registation\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Registation\Registation\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Registation\Registation\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Registation\Registation\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Registation\Registation\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Registation\Registation\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Registation\Registation\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Registation\Registation\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\Registation\Registation\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\Registation\Registation\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Registation\Registation\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Registation\Registation\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Registation\Registation\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Registation\Registation\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\Registation\Registation\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+G:\Registation\Registation\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+G:\Registation\Registation\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+G:\Registation\Registation\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\Registation\Registation\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+G:\Registation\Registation\obj\Debug\net8.0\Registation.csproj.AssemblyReference.cache
+G:\Registation\Registation\obj\Debug\net8.0\Registation.GeneratedMSBuildEditorConfig.editorconfig
+G:\Registation\Registation\obj\Debug\net8.0\Registation.AssemblyInfoInputs.cache
+G:\Registation\Registation\obj\Debug\net8.0\Registation.AssemblyInfo.cs
+G:\Registation\Registation\obj\Debug\net8.0\Registation.csproj.CoreCompileInputs.cache
+G:\Registation\Registation\obj\Debug\net8.0\Registation.MvcApplicationPartsAssemblyInfo.cs
+G:\Registation\Registation\obj\Debug\net8.0\Registation.MvcApplicationPartsAssemblyInfo.cache
+G:\Registation\Registation\obj\Debug\net8.0\staticwebassets.build.json
+G:\Registation\Registation\obj\Debug\net8.0\staticwebassets.development.json
+G:\Registation\Registation\obj\Debug\net8.0\staticwebassets\msbuild.Registation.Microsoft.AspNetCore.StaticWebAssets.props
+G:\Registation\Registation\obj\Debug\net8.0\staticwebassets\msbuild.build.Registation.props
+G:\Registation\Registation\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Registation.props
+G:\Registation\Registation\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Registation.props
+G:\Registation\Registation\obj\Debug\net8.0\staticwebassets.pack.json
+G:\Registation\Registation\obj\Debug\net8.0\scopedcss\bundle\Registation.styles.css
+G:\Registation\Registation\obj\Debug\net8.0\Registat.A10D6729.Up2Date
+G:\Registation\Registation\obj\Debug\net8.0\Registation.dll
+G:\Registation\Registation\obj\Debug\net8.0\refint\Registation.dll
+G:\Registation\Registation\obj\Debug\net8.0\Registation.pdb
+G:\Registation\Registation\obj\Debug\net8.0\Registation.genruntimeconfig.cache
+G:\Registation\Registation\obj\Debug\net8.0\ref\Registation.dll

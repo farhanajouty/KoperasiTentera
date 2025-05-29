@@ -1,0 +1,394 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Registation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{698068AC-E7F3-4E38-B468-E656930B531E}|Registation\\Registation.csproj|g:\\registation\\registation\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{698068AC-E7F3-4E38-B468-E656930B531E}|Registation\\Registation.csproj|solutionrelative:registation\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{698068AC-E7F3-4E38-B468-E656930B531E}|Registation\\Registation.csproj|g:\\registation\\registation\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{698068AC-E7F3-4E38-B468-E656930B531E}|Registation\\Registation.csproj|solutionrelative:registation\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{698068AC-E7F3-4E38-B468-E656930B531E}|Registation\\Registation.csproj|g:\\registation\\registation\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{698068AC-E7F3-4E38-B468-E656930B531E}|Registation\\Registation.csproj|solutionrelative:registation\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{698068AC-E7F3-4E38-B468-E656930B531E}|Registation\\Registation.csproj|g:\\registation\\registation\\migrations\\20250528190650_updatetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{698068AC-E7F3-4E38-B468-E656930B531E}|Registation\\Registation.csproj|solutionrelative:registation\\migrations\\20250528190650_updatetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{698068AC-E7F3-4E38-B468-E656930B531E}|Registation\\Registation.csproj|g:\\registation\\registation\\migrations\\20250528190119_new.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{698068AC-E7F3-4E38-B468-E656930B531E}|Registation\\Registation.csproj|solutionrelative:registation\\migrations\\20250528190119_new.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{698068AC-E7F3-4E38-B468-E656930B531E}|Registation\\Registation.csproj|g:\\registation\\registation\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{698068AC-E7F3-4E38-B468-E656930B531E}|Registation\\Registation.csproj|solutionrelative:registation\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{698068AC-E7F3-4E38-B468-E656930B531E}|Registation\\Registation.csproj|g:\\registation\\registation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{698068AC-E7F3-4E38-B468-E656930B531E}|Registation\\Registation.csproj|solutionrelative:registation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{698068AC-E7F3-4E38-B468-E656930B531E}|Registation\\Registation.csproj|g:\\registation\\registation\\services\\otpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{698068AC-E7F3-4E38-B468-E656930B531E}|Registation\\Registation.csproj|solutionrelative:registation\\services\\otpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{698068AC-E7F3-4E38-B468-E656930B531E}|Registation\\Registation.csproj|g:\\registation\\registation\\services\\iotpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{698068AC-E7F3-4E38-B468-E656930B531E}|Registation\\Registation.csproj|solutionrelative:registation\\services\\iotpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{698068AC-E7F3-4E38-B468-E656930B531E}|Registation\\Registation.csproj|g:\\registation\\registation\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{698068AC-E7F3-4E38-B468-E656930B531E}|Registation\\Registation.csproj|solutionrelative:registation\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{698068AC-E7F3-4E38-B468-E656930B531E}|Registation\\Registation.csproj|g:\\registation\\registation\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{698068AC-E7F3-4E38-B468-E656930B531E}|Registation\\Registation.csproj|solutionrelative:registation\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{698068AC-E7F3-4E38-B468-E656930B531E}|Registation\\Registation.csproj|g:\\registation\\registation\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{698068AC-E7F3-4E38-B468-E656930B531E}|Registation\\Registation.csproj|solutionrelative:registation\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{698068AC-E7F3-4E38-B468-E656930B531E}|Registation\\Registation.csproj|g:\\registation\\registation\\dto\\emailchangedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{698068AC-E7F3-4E38-B468-E656930B531E}|Registation\\Registation.csproj|solutionrelative:registation\\dto\\emailchangedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{698068AC-E7F3-4E38-B468-E656930B531E}|Registation\\Registation.csproj|g:\\registation\\registation\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{698068AC-E7F3-4E38-B468-E656930B531E}|Registation\\Registation.csproj|solutionrelative:registation\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{698068AC-E7F3-4E38-B468-E656930B531E}|Registation\\Registation.csproj|g:\\registation\\registation\\dto\\biometricdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{698068AC-E7F3-4E38-B468-E656930B531E}|Registation\\Registation.csproj|solutionrelative:registation\\dto\\biometricdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{698068AC-E7F3-4E38-B468-E656930B531E}|Registation\\Registation.csproj|g:\\registation\\registation\\dto\\pindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{698068AC-E7F3-4E38-B468-E656930B531E}|Registation\\Registation.csproj|solutionrelative:registation\\dto\\pindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{698068AC-E7F3-4E38-B468-E656930B531E}|Registation\\Registation.csproj|g:\\registation\\registation\\dto\\otpverifydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{698068AC-E7F3-4E38-B468-E656930B531E}|Registation\\Registation.csproj|solutionrelative:registation\\dto\\otpverifydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{698068AC-E7F3-4E38-B468-E656930B531E}|Registation\\Registation.csproj|g:\\registation\\registation\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{698068AC-E7F3-4E38-B468-E656930B531E}|Registation\\Registation.csproj|solutionrelative:registation\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{698068AC-E7F3-4E38-B468-E656930B531E}|Registation\\Registation.csproj|g:\\registation\\registation\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{698068AC-E7F3-4E38-B468-E656930B531E}|Registation\\Registation.csproj|solutionrelative:registation\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{698068AC-E7F3-4E38-B468-E656930B531E}|Registation\\Registation.csproj|g:\\registation\\registation\\models\\otpcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{698068AC-E7F3-4E38-B468-E656930B531E}|Registation\\Registation.csproj|solutionrelative:registation\\models\\otpcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{698068AC-E7F3-4E38-B468-E656930B531E}|Registation\\Registation.csproj|g:\\registation\\registation\\registation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{698068AC-E7F3-4E38-B468-E656930B531E}|Registation\\Registation.csproj|solutionrelative:registation\\registation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{698068AC-E7F3-4E38-B468-E656930B531E}|Registation\\Registation.csproj|g:\\registation\\registation\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{698068AC-E7F3-4E38-B468-E656930B531E}|Registation\\Registation.csproj|solutionrelative:registation\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{698068AC-E7F3-4E38-B468-E656930B531E}|Registation\\Registation.csproj|g:\\registation\\registation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{698068AC-E7F3-4E38-B468-E656930B531E}|Registation\\Registation.csproj|solutionrelative:registation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "G:\\Registation\\Registation\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Registation\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "G:\\Registation\\Registation\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Registation\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T15:28:45.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "G:\\Registation\\Registation\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Registation\\Controllers\\AccountController.cs",
+              "ToolTip": "G:\\Registation\\Registation\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Registation\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T19:26:25.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "G:\\Registation\\Registation\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "Registation\\Services\\IUserService.cs",
+              "ToolTip": "G:\\Registation\\Registation\\Services\\IUserService.cs",
+              "RelativeToolTip": "Registation\\Services\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T19:12:37.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "G:\\Registation\\Registation\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Registation\\appsettings.Development.json",
+              "ToolTip": "G:\\Registation\\Registation\\appsettings.Development.json",
+              "RelativeToolTip": "Registation\\appsettings.Development.json",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAkwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-28T18:47:33.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20250528190119_new.cs",
+              "DocumentMoniker": "G:\\Registation\\Registation\\Migrations\\20250528190119_new.cs",
+              "RelativeDocumentMoniker": "Registation\\Migrations\\20250528190119_new.cs",
+              "ToolTip": "G:\\Registation\\Registation\\Migrations\\20250528190119_new.cs",
+              "RelativeToolTip": "Registation\\Migrations\\20250528190119_new.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACIAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T19:01:21.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20250528190650_updatetable.cs",
+              "DocumentMoniker": "G:\\Registation\\Registation\\Migrations\\20250528190650_updatetable.cs",
+              "RelativeDocumentMoniker": "Registation\\Migrations\\20250528190650_updatetable.cs",
+              "ToolTip": "G:\\Registation\\Registation\\Migrations\\20250528190650_updatetable.cs",
+              "RelativeToolTip": "Registation\\Migrations\\20250528190650_updatetable.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T19:06:50.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "G:\\Registation\\Registation\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Registation\\Services\\UserService.cs",
+              "ToolTip": "G:\\Registation\\Registation\\Services\\UserService.cs",
+              "RelativeToolTip": "Registation\\Services\\UserService.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAAAAYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T19:13:02.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "G:\\Registation\\Registation\\Services\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Registation\\Services\\IAuthService.cs",
+              "ToolTip": "G:\\Registation\\Registation\\Services\\IAuthService.cs",
+              "RelativeToolTip": "Registation\\Services\\IAuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T19:14:15.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "G:\\Registation\\Registation\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Registation\\Services\\AuthService.cs",
+              "ToolTip": "G:\\Registation\\Registation\\Services\\AuthService.cs",
+              "RelativeToolTip": "Registation\\Services\\AuthService.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABEAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T19:14:38.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IOtpService.cs",
+              "DocumentMoniker": "G:\\Registation\\Registation\\Services\\IOtpService.cs",
+              "RelativeDocumentMoniker": "Registation\\Services\\IOtpService.cs",
+              "ToolTip": "G:\\Registation\\Registation\\Services\\IOtpService.cs",
+              "RelativeToolTip": "Registation\\Services\\IOtpService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T19:17:29.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OtpService.cs",
+              "DocumentMoniker": "G:\\Registation\\Registation\\Services\\OtpService.cs",
+              "RelativeDocumentMoniker": "Registation\\Services\\OtpService.cs",
+              "ToolTip": "G:\\Registation\\Registation\\Services\\OtpService.cs",
+              "RelativeToolTip": "Registation\\Services\\OtpService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T19:18:35.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EmailChangeDto.cs",
+              "DocumentMoniker": "G:\\Registation\\Registation\\Dto\\EmailChangeDto.cs",
+              "RelativeDocumentMoniker": "Registation\\Dto\\EmailChangeDto.cs",
+              "ToolTip": "G:\\Registation\\Registation\\Dto\\EmailChangeDto.cs",
+              "RelativeToolTip": "Registation\\Dto\\EmailChangeDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T19:10:26.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "G:\\Registation\\Registation\\Dto\\LoginDto.cs",
+              "RelativeDocumentMoniker": "Registation\\Dto\\LoginDto.cs",
+              "ToolTip": "G:\\Registation\\Registation\\Dto\\LoginDto.cs",
+              "RelativeToolTip": "Registation\\Dto\\LoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T19:09:59.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Registation\\Registation\\Program.cs",
+              "RelativeDocumentMoniker": "Registation\\Program.cs",
+              "ToolTip": "G:\\Registation\\Registation\\Program.cs",
+              "RelativeToolTip": "Registation\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAowB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T18:44:13.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BiometricDto.cs",
+              "DocumentMoniker": "G:\\Registation\\Registation\\Dto\\BiometricDto.cs",
+              "RelativeDocumentMoniker": "Registation\\Dto\\BiometricDto.cs",
+              "ToolTip": "G:\\Registation\\Registation\\Dto\\BiometricDto.cs",
+              "RelativeToolTip": "Registation\\Dto\\BiometricDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T19:09:22.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PinDto.cs",
+              "DocumentMoniker": "G:\\Registation\\Registation\\Dto\\PinDto.cs",
+              "RelativeDocumentMoniker": "Registation\\Dto\\PinDto.cs",
+              "ToolTip": "G:\\Registation\\Registation\\Dto\\PinDto.cs",
+              "RelativeToolTip": "Registation\\Dto\\PinDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T19:08:52.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "OtpVerifyDto.cs",
+              "DocumentMoniker": "G:\\Registation\\Registation\\Dto\\OtpVerifyDto.cs",
+              "RelativeDocumentMoniker": "Registation\\Dto\\OtpVerifyDto.cs",
+              "ToolTip": "G:\\Registation\\Registation\\Dto\\OtpVerifyDto.cs",
+              "RelativeToolTip": "Registation\\Dto\\OtpVerifyDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T19:08:10.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "G:\\Registation\\Registation\\Dto\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "Registation\\Dto\\RegisterDto.cs",
+              "ToolTip": "G:\\Registation\\Registation\\Dto\\RegisterDto.cs",
+              "RelativeToolTip": "Registation\\Dto\\RegisterDto.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAkwAcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T19:03:00.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "G:\\Registation\\Registation\\appsettings.json",
+              "RelativeDocumentMoniker": "Registation\\appsettings.json",
+              "ToolTip": "G:\\Registation\\Registation\\appsettings.json",
+              "RelativeToolTip": "Registation\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-28T18:47:10.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "OtpCode.cs",
+              "DocumentMoniker": "G:\\Registation\\Registation\\Models\\OtpCode.cs",
+              "RelativeDocumentMoniker": "Registation\\Models\\OtpCode.cs",
+              "ToolTip": "G:\\Registation\\Registation\\Models\\OtpCode.cs",
+              "RelativeToolTip": "Registation\\Models\\OtpCode.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T18:40:55.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "G:\\Registation\\Registation\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Registation\\Data\\AppDbContext.cs",
+              "ToolTip": "G:\\Registation\\Registation\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Registation\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAowBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T16:21:23.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "G:\\Registation\\Registation\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "Registation\\Models\\AppUser.cs",
+              "ToolTip": "G:\\Registation\\Registation\\Models\\AppUser.cs",
+              "RelativeToolTip": "Registation\\Models\\AppUser.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAYwAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T16:31:55.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Registation.csproj",
+              "DocumentMoniker": "G:\\Registation\\Registation\\Registation.csproj",
+              "RelativeDocumentMoniker": "Registation\\Registation.csproj",
+              "ToolTip": "G:\\Registation\\Registation\\Registation.csproj",
+              "RelativeToolTip": "Registation\\Registation.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-28T16:23:40.297Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
