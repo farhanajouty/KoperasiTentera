@@ -29,5 +29,4 @@ A .NET 8 Web API implementation based on the provided wireframe design, using En
 1. Clone the repository:
    ```bash
    git clone https://github.com/farhanajouty/KoperasiTentera.git
-
-   <img src="https://github.com/user-attachments/assets/c0807312-d617-4478-9538-60edf3388d3a/"
+![Screenshot]([https://user-images.githubusercontent.com/12345678/your-uploaded-image.png](https://github.com/user-attachments/assets/c0807312-d617-4478-9538-60edf3388d3a))
